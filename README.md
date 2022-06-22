@@ -6,7 +6,9 @@ Program the drone:bit to take off, hover for 10 seconds, and land.
 
 Example taken from [https://www.elecfreaks.com](https://www.elecfreaks.com/learn-en/microbitKit/Drone_bit/Drone-bit-case-01.html)
 
-# CORY ADD VIDEO LINK BELOW (an example of a video poster to my account is below)
+# CORY ADD VIDEO LINK BELOW
+## (an example of a video poster to my account is below)
+## Video file found at "Dronebit and Airbit/5-18-22 Drone Malfunctions Test Videos/Nominal Videos/Hover" 
 ## Video Demonstration <!--Video embedded as image wrapped in a link-->
 [![Hover video demonstration](https://img.youtube.com/vi/zqUvSMOW19Q/0.jpg)](https://youtu.be/zqUvSMOW19Q)
 
