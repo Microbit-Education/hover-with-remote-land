@@ -1,6 +1,14 @@
 
 > Open this page at [https://Microbit-Education.github.io/hover-with-remote-land/](https://Microbit-Education.github.io/hover-with-remote-land/)
 
+# Drone:bit Hover Example
+Program the drone:bit to take off, hover for 10 seconds, and land.
+
+Example taken from [https://www.elecfreaks.com](https://www.elecfreaks.com/learn-en/microbitKit/Drone_bit/Drone-bit-case-01.html)
+
+## Video Demonstration <!--Video embedded as image wrapped in a link-->
+[![Hover video demonstration](https://img.youtube.com/vi/zqUvSMOW19Q/0.jpg)](https://youtu.be/zqUvSMOW19Q)
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
